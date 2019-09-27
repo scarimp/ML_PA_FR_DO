@@ -8,4 +8,4 @@ Il Machine Learning delle Parole , delle Frasi , dei Documenti.
 3. [Toy example on word embedding](https://www.shanelynn.ie/get-busy-with-word-embeddings-introduction/)
 4. [Another toy example on word embedding](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
 5. [Visualizing word embedding , wevi: word embedding visual inspector](https://ronxin.github.io/wevi/)
-6. [Wikipedia2Vec visualization](http://projector.tensorflow.org/?config=https://wikipedia2vec.github.io/projector_files/config.json]
+6. [Wikipedia2Vec visualization](http://projector.tensorflow.org/?config=https://wikipedia2vec.github.io/projector_files/config.json)
