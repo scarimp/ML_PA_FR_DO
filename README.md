@@ -16,4 +16,4 @@ Il Machine Learning delle Parole , delle Frasi , dei Documenti.
 
 1. [Progetto fondazione CRP](http://medialab.di.unipi.it/wiki/Progetto_Fondazione_CRP)
     
-    1.1 
+    1.1  Analisi di testi per il Semantic Web e il Question Answering.
