@@ -10,3 +10,9 @@ Il Machine Learning delle Parole , delle Frasi , dei Documenti.
 5. [Visualizing word embedding , wevi: word embedding visual inspector](https://ronxin.github.io/wevi/)
 6. [Wikipedia2Vec visualization](http://projector.tensorflow.org/?config=https://wikipedia2vec.github.io/projector_files/config.json)
 7. [DeepMoji dataset  from  MIT](https://deepmoji.mit.edu/)
+
+
+# Progetto Università PISA
+
+1. [Progetto fondazione CRP](http://medialab.di.unipi.it/wiki/Progetto_Fondazione_CRP)
+    1.1 
