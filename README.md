@@ -24,3 +24,5 @@ Il Machine Learning delle Parole , delle Frasi , dei Documenti.
 # Tools
 
 1. [Treetagger on line](http://elearning.unistrapg.it/TreeTaggerWeb/TreeTagger.html)
+
+2. [TreeTaggerWrapper in Python](https://perso.limsi.fr/pointal/doku.php?id=dev:treetaggerwrapper)
